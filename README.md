@@ -1,2 +1,2 @@
 # Tela-de-login-Animada
-<img src="https://i.imgur.com/SnwDcx2.mp4" alt="GIF" data-canonical-src="https://i.imgur.com/SnwDcx2.mp4" style="max-width: 50%;">
+<img src="https://i.imgur.com/GF9lKOx.jpg" alt="GIF" data-canonical-src="https://i.imgur.com/GF9lKOx.jpg" style="max-width: 50%;">
